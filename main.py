@@ -68,7 +68,7 @@ def main():
                 exibir_extrato(saldo, extrato)
 
             case "q":
-                print("Saindo do sistema...")
+                print("Saindo do sistema... ")
                 break
 
             case _:
